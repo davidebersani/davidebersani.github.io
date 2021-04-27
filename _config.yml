@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes@4.22.0"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -49,9 +49,10 @@ social:
 author:
   name             : "Davide Bersani"
   avatar           : "https://pbs.twimg.com/profile_images/1305126949984055296/sSwhhmcV_400x400.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "👨‍💻 Data Engineer \n
-    🏕️ Scout FSE \n
-    🖥️⚽🏀 Tech and sport lover!"
+  bio              : |-
+    👨‍💻 Data Engineer <br> 
+    🏕️ Scout FSE <br> 
+    🖥️⚽🏀 Tech and sport lover!
   location         : "Italy"
   email            :
   links:

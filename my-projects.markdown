@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "My projects"
 permalink: /about/my-projects/
 ---
