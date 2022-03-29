@@ -13,10 +13,9 @@ author_profile: true
 💬 I also like to discuss about tech stuff, because I believe that the greatest teachings and ideas come from discussions and talks.
 
 📫 How to reach me:
-
-    Email: davide.bersani96[at]gmail.com
-    LinkedIn: [Davide Bersani](https://www.linkedin.com/in/davide-bersani-598158174/]
-    Telegram: [at]bersak
+- Email: davide.bersani96[at]gmail.com
+- LinkedIn: [Davide Bersani](https://www.linkedin.com/in/davide-bersani-598158174/]
+- Telegram: [at]bersak
 
 Do you wanna know more? Visit the [About me](https://davidebersani.github.io/about/) page!
 
@@ -31,3 +30,4 @@ Do you wanna know more? Visit the [About me](https://davidebersani.github.io/abo
 # Interests
 
 # Curriculum
+
