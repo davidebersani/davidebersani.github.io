@@ -77,25 +77,25 @@ author:
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://www.instagram.com/davide__bersani/"
     - label: Welcome
-      icon: "fab fa-fw fa-flag"
+      icon: "fa fa-flag"
       url: https://davidebersani.github.io/
     - label: Contacts
-      icon: "fab fa-fw fa-instagram"
+      icon: "fa fa-comment"
       url: https://davidebersani.github.io/#contacts
     - label: Experience
-      icon: "fa-briefcase"
+      icon: "fa fa-briefcase"
       url: https://davidebersani.github.io/#experience
     - label: Education
-      icon: "fa-graduation-cap"
+      icon: "fa fa-graduation-cap"
       url: https://davidebersani.github.io/#education
     - label: Skills
-      icon: "fa-rocket-launch"
+      icon: "fa fa-rocket"
       url: https://davidebersani.github.io/#skills
     - label: Interests
-      icon: "fa-lightbulb-on"
+      icon: "fa fa-lightbulb"
       url: https://davidebersani.github.io/#interests
     - label: Curriculum
-      icon: "fa-file"
+      icon: "fa fa-file"
       url: https://davidebersani.github.io/#curriculum
 
 # Site Footer
