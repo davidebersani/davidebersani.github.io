@@ -17,9 +17,9 @@ Do you wanna know more? Visit the [About me](https://davidebersani.github.io/abo
 
 # Contacts
 
-<a href="mailto:davide.bersani96@gmail.com"><i class="fa fa-envelope"></i></a>
-<a href="https://www.linkedin.com/in/davide-bersani-598158174/"><i class="fa fa-linkedin-square"></i></a>
-<a href="https://github.com/davidebersani"><i class="fa fa-github-square"></i></a>
+<a href="mailto:davide.bersani96@gmail.com"><i class="fa fa-envelope" style="font-size:50px"></i></a>
+<a href="https://www.linkedin.com/in/davide-bersani-598158174/"><i class="fa fa-linkedin-square" style="font-size:50px"></i></a>
+<a href="https://github.com/davidebersani"><i class="fa fa-github-square" style="font-size:50px"></i></a>
 
 # Experience
 
