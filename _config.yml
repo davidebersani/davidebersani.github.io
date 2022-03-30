@@ -88,6 +88,15 @@ author:
     - label: Education
       icon: fa-solid fa-graduation-cap
       url: https://davidebersani.github.io/#education
+    - label: Skills
+      icon: fa-solid fa-rocket-launch
+      url: https://davidebersani.github.io/#skills
+    - label: Interests
+      icon: fa-solid fa-lightbulb-on
+      url: https://davidebersani.github.io/#interests
+    - label: Curriculum
+      icon: fa-solid fa-file
+      url: https://davidebersani.github.io/#curriculum
 
 # Site Footer
 footer:
