@@ -77,7 +77,7 @@ author:
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://www.instagram.com/davide__bersani/"
     - label: Welcome
-      icon: fa-hand-wave
+      icon: fa-flag
       url: https://davidebersani.github.io/
     - label: Contacts
       icon: fa-comment
