@@ -21,6 +21,8 @@ Do you wanna know more? Visit the [About me](https://davidebersani.github.io/abo
 
 ----
 
+# Contatcs
+
 # Experience
 
 # Education
