@@ -77,13 +77,16 @@ author:
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://www.instagram.com/davide__bersani/"
     - label: Welcome
-      icon: fa-hand-spock-o
+      icon: fa-solid fa-hand-wave
       url: https://davidebersani.github.io/
+    - label: Contacts
+      icon: fa-solid fa-comment
+      url: https://davidebersani.github.io/#contacts
     - label: Experience
-      icon: fa-briefcase
+      icon: fa-solid fa-briefcase
       url: https://davidebersani.github.io/#experience
     - label: Education
-      icon: fa-graduation-cap
+      icon: fa-solid fa-graduation-cap
       url: https://davidebersani.github.io/#education
 
 # Site Footer
