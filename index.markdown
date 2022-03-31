@@ -108,7 +108,7 @@ This project is the work of my three-year thesis.
 
 # Skills
 
-
+[<i class="fab fa-docker" aria-hidden="true"></i>](){: .btn .btn--info}
 
 # Interests
 
