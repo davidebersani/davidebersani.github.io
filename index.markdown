@@ -13,7 +13,7 @@ title: Welcome to my portfolio
 
 📫 How to reach me:
 - Email: davide.bersani96[at]gmail.com
-- LinkedIn: [Davide Bersani](https://www.linkedin.com/in/davide-bersani-598158174/]
+- LinkedIn: [Davide Bersani](https://www.linkedin.com/in/davide-bersani-598158174/)
 - Telegram: [at]bersak
 
 Do you wanna know more? Visit the [About me](https://davidebersani.github.io/about/) page!
