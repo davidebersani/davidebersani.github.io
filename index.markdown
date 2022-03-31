@@ -30,7 +30,7 @@ Do you wanna know more? Visit the [About me](https://davidebersani.github.io/abo
 # Experience
 
 ## Data and Software Engineer
-**Enel Group, Rome, Italy**
+**Enel Group, Rome, Italy**<br>
 **November 2020 - Present**
 
 **Overall**
@@ -44,10 +44,10 @@ Do you wanna know more? Visit the [About me](https://davidebersani.github.io/abo
 Following some specific projects I worked on
 
 **Development of asynchronous REST API to expose inference endpoint with microservices and task queues**
-Development of microservices that expose REST API to trigger inference. AI models are loaded dinamically into the microservices.
-Microservices developed in Python, using Flask (stack ngnix + uWSGI + Flask) and FastAPI (with uvicorn).
-Celery was used as task queue implementation, with SQS as broker.
-Deployed on Kubernetes.  
+Development of microservices that expose REST API to trigger inference. AI models are loaded dinamically into the microservices.<br>
+Microservices developed in Python, using Flask (stack ngnix + uWSGI + Flask) and FastAPI (with uvicorn).<br>
+Celery was used as task queue implementation, with SQS as broker.<br>
+Deployed on Kubernetes.  <br>
 
 **Monitoring of microservices application and AI model performances**
 Implemented application monitoring for microservices application, with distributed tracing, log aggregation and metrics. Data exposed on CloudWatch with custom dashboards and log queries. CloudWatch alarms used to monitor status of microservices.
@@ -55,19 +55,19 @@ Implemented application monitoring for microservices application, with distribut
 Designed and implemented a monitoring process for AI model performances. Data exposed on CloudWatch with custom dashboards. Possibility to set alarms on common models metrics (e.g. accuracy, f1-score).
 
 **Development of backend REST API and contributed to development of validation dashboard**
-Backend developed with FastAPI, exposes REST API. Integrated with DynamoDB.
-Contributed to the development of a dashboard for validating model's predictions, providing groundtruth. 
-Developed with Angular. Deployed on Kubernetes.
+Backend developed with FastAPI, exposes REST API. Integrated with DynamoDB.<br>
+Contributed to the development of a dashboard for validating model's predictions, providing groundtruth. <br>
+Developed with Angular. Deployed on Kubernetes.<br>
 
 **Design and development of workflow for data pipelines**
-Serveless solutions deployed on AWS.
-Workflow implemented with AWS StepFunctions. Steps developed with Lambda Functions or SageMaker Processing Job.
-Integrated with different types of sources: PostgreSQL, DynamoDB, Sharepoint.
+Serveless solutions deployed on AWS.<br>
+Workflow implemented with AWS StepFunctions. Steps developed with Lambda Functions or SageMaker Processing Job.<br>
+Integrated with different types of sources: PostgreSQL, DynamoDB, Sharepoint.<br>
 
 ## Java Software Engineer
-**Exeest Inc. [https://exeest.com/](https://exeest.com/), Rome, Italy**
+**Exeest Inc. [https://exeest.com/](https://exeest.com/), Rome, Italy**<br>
 **May 2020 - July 2020**
-I designed and implemented ad architecture for business monitoring in a microservices architecture. (Spring, Kubernetes, Fluentd, EFK, MongoDB).
+I designed and implemented ad architecture for business monitoring in a microservices architecture. (Spring, Kubernetes, Fluentd, EFK, MongoDB).<br>
 This project is part of the work for my master degree.
 - Experience with microservices architecture
 - Monitoring microservices
@@ -76,10 +76,10 @@ This project is part of the work for my master degree.
 - Experience with monitoring tools (EFK Stack, Prometheus, Grafana)
 
 ## Android developer
-**Nextrek s.r.l, Rome, Italy**
+**Nextrek s.r.l, Rome, Italy**<br>
 **February 2028 - May 20218**
 
-Development of an Android application for the recognition of logos and trademarks and the research of related oppositions (legal documents).
+Development of an Android application for the recognition of logos and trademarks and the research of related oppositions (legal documents).<br>
 This project is the work of my three-year thesis.
 
 # Education
@@ -87,20 +87,20 @@ This project is the work of my three-year thesis.
 **Languages:** English, Spanish, Italian.
 
 ## Master degree on Computer Science and Engineering - 100/100 with honors
-**Università degli studi di Roma Tre**
+**Università degli studi di Roma Tre**<br>
 **2018 - 2020**
 Backend development, monitoring, software architecure's design, software engineering, data management, database SQL and NoSQL,Java, Python, Machine Learning Artificial Intelligence, Big Data, Spark, Hive, MapReduce, MongoDB.
 
 Thesis on: Business monitoring in a micro services architecture
 
 ## Bachelor degree on Computer Science and Engineering - 100/100 with honors
-**Università degli studi di Roma Tre**
+**Università degli studi di Roma Tre**<br>
 **2015 - 2018**
 Development of an Android application for the recognition of logos and trademarks and the research of related oppositions (legal documents).
 This project is the work of my three-year thesis.
 
 ## High School - Diploma tecnico tecnologico
-**ITT Marconi, Latina Italy**
+**ITT Marconi, Latina Italy**<br>
 **2015**
 
 ## LPI Essentials Linux Professional Institute
