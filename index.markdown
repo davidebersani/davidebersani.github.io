@@ -23,7 +23,7 @@ Do you wanna know more? Visit the [About me](https://davidebersani.github.io/abo
 # Contacts
 
 - Email: davide.bersani[at]gmail.com
-- LinkedIn: [Davide Bersani](https://www.linkedin.com/in/davide-bersani-598158174/]
+- LinkedIn: [Davide Bersani](https://www.linkedin.com/in/davide-bersani-598158174/)
 - GitHub: <a href="https://github.com/davidebersani">davidebersani</a>
 - Telegram: [at]bersak
 
