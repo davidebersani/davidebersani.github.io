@@ -1,3 +1,8 @@
+---
+layout: single
+title: Welcome to my portfolio
+---
+
 👋🏻 Hi! I'm Davide, a Software Engineer from Italy, who likes building software and solve problems... actually, most of the time, build software for solving problems! (But there are also some exceptions (if you could see all my side projects and POC you would understand 😅)).
 
 🚀 I'm very interested in software development and software architecture design, and I like (try 😏) to do it in the right way.
