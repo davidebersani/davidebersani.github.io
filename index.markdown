@@ -30,8 +30,8 @@ Do you wanna know more? Visit the [About me](https://davidebersani.github.io/abo
 # Experience
 
 ## Data and Software Engineer
-### Enel Group, Rome, Italy
-### November 2020 - Present
+**Enel Group, Rome, Italy**
+**November 2020 - Present**
 
 **Overall**
 - Engineering of AI models and data elaboration jobs, using Kubernetes, Docker, AWS serverless services (step functions, lambda, sagemaker), Python.
@@ -65,8 +65,8 @@ Workflow implemented with AWS StepFunctions. Steps developed with Lambda Functio
 Integrated with different types of sources: PostgreSQL, DynamoDB, Sharepoint.
 
 ## Java Software Engineer
-### Exeest Inc. [https://exeest.com/](https://exeest.com/), Rome, Italy
-### May 2020 - July 2020
+**Exeest Inc. [https://exeest.com/](https://exeest.com/), Rome, Italy**
+**May 2020 - July 2020**
 I designed and implemented ad architecture for business monitoring in a microservices architecture. (Spring, Kubernetes, Fluentd, EFK, MongoDB).
 This project is part of the work for my master degree.
 - Experience with microservices architecture
@@ -76,8 +76,8 @@ This project is part of the work for my master degree.
 - Experience with monitoring tools (EFK Stack, Prometheus, Grafana)
 
 ## Android developer
-### Nextrek s.r.l, Rome, Italy
-### February 2028 - May 20218
+**Nextrek s.r.l, Rome, Italy**
+**February 2028 - May 20218**
 
 Development of an Android application for the recognition of logos and trademarks and the research of related oppositions (legal documents).
 This project is the work of my three-year thesis.
@@ -87,24 +87,24 @@ This project is the work of my three-year thesis.
 **Languages:** English, Spanish, Italian.
 
 ## Master degree on Computer Science and Engineering - 100/100 with honors
-### Università degli studi di Roma Tre
-### 2018 - 2020
+**Università degli studi di Roma Tre**
+**2018 - 2020**
 Backend development, monitoring, software architecure's design, software engineering, data management, database SQL and NoSQL,Java, Python, Machine Learning Artificial Intelligence, Big Data, Spark, Hive, MapReduce, MongoDB.
 
 Thesis on: Business monitoring in a micro services architecture
 
 ## Bachelor degree on Computer Science and Engineering - 100/100 with honors
-### Università degli studi di Roma Tre
-### 2015 - 2018
+**Università degli studi di Roma Tre**
+**2015 - 2018**
 Development of an Android application for the recognition of logos and trademarks and the research of related oppositions (legal documents).
 This project is the work of my three-year thesis.
 
 ## High School - Diploma tecnico tecnologico
-### ITT Marconi, Latina Italy
-### 2015
+**ITT Marconi, Latina Italy**
+**2015**
 
 ## LPI Essentials Linux Professional Institute
-### 2013
+**2013**
 
 # Skills
 
