@@ -108,7 +108,23 @@ This project is the work of my three-year thesis.
 
 # Skills
 
-[<i class="fab fa-docker" aria-hidden="true"></i>](){: .btn .btn--info}
+[<i class="fab fa-java" aria-hidden="true"></i> Java](){: .btn .btn--info}
+[<i class="fab fa-python" aria-hidden="true"></i> Python](){: .btn .btn--info}
+
+Javascript
+Nodejs
+SQL
+Git
+Database
+Fluentd
+grafana
+Prometheus
+git
+linux
+Spark
+[<i class="fab fa-docker" aria-hidden="true"></i> Docker](){: .btn .btn--info}
+Kubernetes
+Altro come testo...
 
 # Interests
 
