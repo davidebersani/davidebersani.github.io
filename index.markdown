@@ -108,20 +108,20 @@ This project is the work of my three-year thesis.
 # Skills
 
 ### Programming
-[<i class="fab fa-java" aria-hidden="true"></i> Java]{: .btn .btn--info}
-[<i class="fab fa-python" aria-hidden="true"></i> Python](){: .btn .btn--info}
-[<i class="fab fa-js" aria-hidden="true"></i> Javascript](){: .btn .btn--info}
-[<i class="fab fa-node-js" aria-hidden="true"></i> Node.js](){: .btn .btn--info}
-[<i class="fa fa-database" aria-hidden="true"></i> Database SQL/NoSQL](){: .btn .btn--info}
-[<i class="fa fa-terminal" aria-hidden="true"></i> Spark/Hive/MapReduce](){: .btn .btn--info}
-[<i class="fab fa-linux" aria-hidden="true"></i> Bash](){: .btn .btn--info}
+[<i class="fab fa-java" aria-hidden="true"></i> Java](https://davidebersani.github.io/#skills){: .btn .btn--info}
+[<i class="fab fa-python" aria-hidden="true"></i> Python](https://davidebersani.github.io/#skills){: .btn .btn--info}
+[<i class="fab fa-js" aria-hidden="true"></i> Javascript](https://davidebersani.github.io/#skills){: .btn .btn--info}
+[<i class="fab fa-node-js" aria-hidden="true"></i> Node.js](https://davidebersani.github.io/#skills){: .btn .btn--info}
+[<i class="fa fa-database" aria-hidden="true"></i> Database SQL/NoSQL](https://davidebersani.github.io/#skills){: .btn .btn--info}
+[<i class="fa fa-terminal" aria-hidden="true"></i> Spark/Hive/MapReduce](https://davidebersani.github.io/#skills){: .btn .btn--info}
+[<i class="fab fa-linux" aria-hidden="true"></i> Bash](https://davidebersani.github.io/#skills){: .btn .btn--info}
 
 ### Tools
-[<i class="fab fa-git" aria-hidden="true"></i> Git](){: .btn .btn--info}
-[<i class="fa fa-file" aria-hidden="true"></i> Fluentd](){: .btn .btn--info}
-[<i class="fa fa-eye" aria-hidden="true"></i> Prometheus/Grafana](){: .btn .btn--info}
-[<i class="fab fa-docker" aria-hidden="true"></i> Docker](){: .btn .btn--info}
-[<i class="fa fa-dharmachakra" aria-hidden="true"></i> Kubernetes](){: .btn .btn--info}
+[<i class="fab fa-git" aria-hidden="true"></i> Git](https://davidebersani.github.io/#skills){: .btn .btn--info}
+[<i class="fa fa-file" aria-hidden="true"></i> Fluentd](https://davidebersani.github.io/#skills){: .btn .btn--info}
+[<i class="fa fa-eye" aria-hidden="true"></i> Prometheus/Grafana](https://davidebersani.github.io/#skills){: .btn .btn--info}
+[<i class="fab fa-docker" aria-hidden="true"></i> Docker](https://davidebersani.github.io/#skills){: .btn .btn--info}
+[<i class="fa fa-dharmachakra" aria-hidden="true"></i> Kubernetes](https://davidebersani.github.io/#skills){: .btn .btn--info}
 
 # Interests
 
