@@ -108,24 +108,30 @@ This project is the work of my three-year thesis.
 
 # Skills
 
+### Programming
 [<i class="fab fa-java" aria-hidden="true"></i> Java](){: .btn .btn--info}
 [<i class="fab fa-python" aria-hidden="true"></i> Python](){: .btn .btn--info}
+[<i class="fab fa-js" aria-hidden="true"></i> Javascript](){: .btn .btn--info}
+[<i class="fab fa-node-js" aria-hidden="true"></i> Node.js](){: .btn .btn--info}
+[<i class="fa fa-database" aria-hidden="true"></i> Database SQL/NoSQL](){: .btn .btn--info}
+[<i class="fa fa-terminal" aria-hidden="true"></i> Spark/Hive/MapReduce](){: .btn .btn--info}
+[<i class="fab fa-linux" aria-hidden="true"></i> Bash](){: .btn .btn--info}
 
-Javascript
-Nodejs
-SQL
-Git
-Database
-Fluentd
-grafana
-Prometheus
-git
-linux
-Spark
+### Tools
+[<i class="fab fa-git" aria-hidden="true"></i> Git](){: .btn .btn--info}
+[<i class="fa fa-file" aria-hidden="true"></i> Fluentd](){: .btn .btn--info}
+[<i class="fa fa-eye" aria-hidden="true"></i> Prometheus/Grafana](){: .btn .btn--info}
 [<i class="fab fa-docker" aria-hidden="true"></i> Docker](){: .btn .btn--info}
-Kubernetes
-Altro come testo...
+[<i class="fa fa-dharmachakra" aria-hidden="true"></i> Kubernetes](){: .btn .btn--info}
 
 # Interests
 
+I love to study new technologies, design patterns, philosophies, frameworks, and especially I love to experiment with them. I also like to discuss about tech stuff, because I believe that the greatest teachings and ideas come from discussions and talks.
+
+But technology is not my only passion. I'm a Scout FSE, and I'm very proud about my path. Thanks to this I lived wonderful experiences and allowed me to grow up with solid and good values.
+
+How to not include my passion for **sport**! I love football, basket, padel, ping pong and I think any other kind of team sport.
+
 # Curriculum
+[Link to my CV](https://drive.google.com/file/d/17YWF5OMby-5vX3sTpdi44hReIWq1vBtF/view?usp=sharing)
+LinkedIn: [Davide Bersani](https://www.linkedin.com/in/davide-bersani-598158174/)
