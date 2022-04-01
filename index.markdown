@@ -134,3 +134,4 @@ How to not include my passion for **sport**! I love football, basket, padel, pin
 # Curriculum
 [Link to my CV](https://drive.google.com/file/d/17YWF5OMby-5vX3sTpdi44hReIWq1vBtF/view?usp=sharing)<br>
 LinkedIn: [Davide Bersani](https://www.linkedin.com/in/davide-bersani-598158174/)
+
