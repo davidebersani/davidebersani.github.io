@@ -11,72 +11,71 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes@4.22.0"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Davide Bersani"
-title_separator          : "-"
-subtitle                 : "Personal web site and portfolio"
-name                     : "Davide Bersani"
-description              : "Tech and sport lover!"
-repository               : "davidebersani/davidebersani.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+locale: "en-US"
+title: "Davide Bersani"
+title_separator: "-"
+subtitle: "Personal web site and portfolio"
+name: "Davide Bersani"
+description: "Tech and sport lover!"
+repository: "davidebersani/davidebersani.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute: 200
 
-search                   : true
+search: true
 
-# TODO: SEO Related 
+# TODO: SEO Related
 
 # Social Sharing
 twitter:
-  username               : bersani96
-og_image                 : # Open Graph/Twitter default site image
+  username: bersani96
+og_image: # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type: # Person or Organization (defaults to Person)
+  name: # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://twitter.com/bersani96"
     # TODO
 
 # TODO: Analytics
 
-
 # Site Author
 author:
-  name             : "Davide Bersani"
-  avatar           : "https://pbs.twimg.com/profile_images/1305126949984055296/sSwhhmcV_400x400.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : |-
-    👨‍💻 Data Engineer <br> 
-    🏕️ Scout FSE <br> 
+  name: "Davide Bersani"
+  avatar: "https://pbs.twimg.com/profile_images/1305126949984055296/sSwhhmcV_400x400.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio: |-
+    👨‍💻 Data Engineer <br>
+    🏕️ Scout FSE <br>
     🖥️⚽🏀 Tech and sport lover!
-  location         : "Italy"
-  email            :
+  location: "Italy"
+  email:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:davide.bersani96@gmail.com"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/davide-bersani-598158174"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://davidebersani.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/bersani96"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/profile.php?id=10001040970758"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/davidebersani"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/davide__bersani/"
+    - label: Welcome
+      icon: "fa fa-flag"
+      url: https://davidebersani.github.io/
+    - label: Contacts
+      icon: "fa fa-comment"
+      url: https://davidebersani.github.io/#contacts
+    - label: Experience
+      icon: "fa fa-briefcase"
+      url: https://davidebersani.github.io/#experience
+    - label: Education
+      icon: "fa fa-graduation-cap"
+      url: https://davidebersani.github.io/#education
+    - label: Skills
+      icon: "fa fa-rocket"
+      url: https://davidebersani.github.io/#skills
+    - label: Interests
+      icon: "fa fa-lightbulb"
+      url: https://davidebersani.github.io/#interests
+    - label: Curriculum
+      icon: "fa fa-file"
+      url: https://davidebersani.github.io/#curriculum
 
 # Site Footer
 footer:
@@ -90,19 +89,9 @@ footer:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://davidebersani.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/bersani96"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/profile.php?id=10001040970758"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/davidebersani"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/davide__bersani/"
-
 
 # Reading Files
 include:
@@ -141,14 +130,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -161,19 +148,16 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
 
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 
 # Plugins (previously gems:)
 plugins:
@@ -190,7 +174,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-
 
 # Archives
 #  Type
@@ -220,14 +203,12 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
 # HTML Compression
 # - https://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
     envs: development
-
 
 # Defaults
 defaults:
@@ -250,3 +231,4 @@ defaults:
     values:
       layout: single
       author_profile: true
+
