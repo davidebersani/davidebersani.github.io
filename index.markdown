@@ -43,30 +43,30 @@ Do you wanna know more? Visit the [About me](https://davidebersani.github.io/abo
 - Implement DevOps and MLOps pipelines to deploy industrialized AI and ML solutions
 Following some specific projects I worked on
 
-**Development of asynchronous REST API to expose inference endpoint with microservices and task queues**
+**Development of asynchronous REST API to expose inference endpoint with microservices and task queues**<br>
 Development of microservices that expose REST API to trigger inference. AI models are loaded dinamically into the microservices.<br>
 Microservices developed in Python, using Flask (stack ngnix + uWSGI + Flask) and FastAPI (with uvicorn).<br>
 Celery was used as task queue implementation, with SQS as broker.<br>
 Deployed on Kubernetes.  <br>
 
-**Monitoring of microservices application and AI model performances**
+**Monitoring of microservices application and AI model performances**<br>
 Implemented application monitoring for microservices application, with distributed tracing, log aggregation and metrics. Data exposed on CloudWatch with custom dashboards and log queries. CloudWatch alarms used to monitor status of microservices.
 
 Designed and implemented a monitoring process for AI model performances. Data exposed on CloudWatch with custom dashboards. Possibility to set alarms on common models metrics (e.g. accuracy, f1-score).
 
-**Development of backend REST API and contributed to development of validation dashboard**
+**Development of backend REST API and contributed to development of validation dashboard**<br>
 Backend developed with FastAPI, exposes REST API. Integrated with DynamoDB.<br>
 Contributed to the development of a dashboard for validating model's predictions, providing groundtruth. <br>
 Developed with Angular. Deployed on Kubernetes.<br>
 
-**Design and development of workflow for data pipelines**
+**Design and development of workflow for data pipelines**<br>
 Serveless solutions deployed on AWS.<br>
 Workflow implemented with AWS StepFunctions. Steps developed with Lambda Functions or SageMaker Processing Job.<br>
 Integrated with different types of sources: PostgreSQL, DynamoDB, Sharepoint.<br>
 
 ## 👤 Java Software Engineer
 **📍 Exeest Inc. [https://exeest.com/](https://exeest.com/), Rome, Italy**<br>
-**🗓 May 2020 - July 2020**
+**🗓 May 2020 - July 2020**<br>
 I designed and implemented ad architecture for business monitoring in a microservices architecture. (Spring, Kubernetes, Fluentd, EFK, MongoDB).<br>
 This project is part of the work for my master degree.
 - Experience with microservices architecture
@@ -77,25 +77,24 @@ This project is part of the work for my master degree.
 
 ## 👤 Android developer
 **📍 Nextrek s.r.l, Rome, Italy**<br>
-**🗓 February 2028 - May 20218**
-
+**🗓 February 2028 - May 20218**<br>
 Development of an Android application for the recognition of logos and trademarks and the research of related oppositions (legal documents).<br>
 This project is the work of my three-year thesis.
 
 # Education
 
-**Languages:** English, Spanish, Italian.
+**🌍 Languages:** English, Spanish, Italian.
 
 ## 🎓 Master degree on Computer Science and Engineering - 100/100 with honors
 **Università degli studi di Roma Tre**<br>
-**2018 - 2020**
+**2018 - 2020**<br>
 Backend development, monitoring, software architecure's design, software engineering, data management, database SQL and NoSQL,Java, Python, Machine Learning Artificial Intelligence, Big Data, Spark, Hive, MapReduce, MongoDB.
 
 Thesis on: Business monitoring in a micro services architecture
 
 ## 🎓 Bachelor degree on Computer Science and Engineering - 100/100 with honors
 **Università degli studi di Roma Tre**<br>
-**2015 - 2018**
+**2015 - 2018**<br>
 Development of an Android application for the recognition of logos and trademarks and the research of related oppositions (legal documents).
 This project is the work of my three-year thesis.
 
@@ -109,7 +108,7 @@ This project is the work of my three-year thesis.
 # Skills
 
 ### Programming
-[<i class="fab fa-java" aria-hidden="true"></i> Java](){: .btn .btn--info}
+[<i class="fab fa-java" aria-hidden="true"></i> Java]{: .btn .btn--info}
 [<i class="fab fa-python" aria-hidden="true"></i> Python](){: .btn .btn--info}
 [<i class="fab fa-js" aria-hidden="true"></i> Javascript](){: .btn .btn--info}
 [<i class="fab fa-node-js" aria-hidden="true"></i> Node.js](){: .btn .btn--info}
@@ -133,5 +132,5 @@ But technology is not my only passion. I'm a Scout FSE, and I'm very proud about
 How to not include my passion for **sport**! I love football, basket, padel, ping pong and I think any other kind of team sport.
 
 # Curriculum
-[Link to my CV](https://drive.google.com/file/d/17YWF5OMby-5vX3sTpdi44hReIWq1vBtF/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/17YWF5OMby-5vX3sTpdi44hReIWq1vBtF/view?usp=sharing)<br>
 LinkedIn: [Davide Bersani](https://www.linkedin.com/in/davide-bersani-598158174/)
