@@ -83,7 +83,7 @@ This project is the work of my three-year thesis.
 
 # Education
 
-**🌍 Languages:** English, Spanish, Italian.
+**🌍 Languages:** English 🇬🇧, Spanish 🇪🇸, Italian 🇮🇹.
 
 ## 🎓 Master degree on Computer Science and Engineering - 100/100 with honors
 **Università degli studi di Roma Tre**<br>
