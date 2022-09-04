@@ -132,6 +132,6 @@ But technology is not my only passion. I'm a Scout FSE, and I'm very proud about
 How to not include my passion for **sport**! I love football, basket, padel, ping pong and I think any other kind of team sport.
 
 # Curriculum
-[Link to my CV](https://drive.google.com/file/d/17YWF5OMby-5vX3sTpdi44hReIWq1vBtF/view?usp=sharing)<br>
+[Link to my CV](https://drive.google.com/file/d/1Y8jIhTxaMaragOVCwk8Zt7cD_kQJeVMl/view?usp=sharing)<br>
 LinkedIn: [Davide Bersani](https://www.linkedin.com/in/davide-bersani-598158174/)
 
